@@ -1,0 +1,11 @@
+Please add valid username and password in the following excel path :
+
+1. Go to "test_Data" folder.
+2. Open "testData.xlsx" file.
+3. Make desired changes in "Login Details" sheet.
+4. Under username remove "dummyUsername" and add your username for flipkart site.
+5. Under password remove "dummyPassword" and add your password for flipkart site.
+
+6. Under "Product Selection" sheet:
+7. If you want to remove "dettol hand wash sanitizer" to your favourite product name.
+8. Else don't make changes to it.
